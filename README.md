@@ -25,5 +25,5 @@ Implementation:
 
 [1] [S. K. Roy, A. Nicolson, and K. K. Paliwal, "DeepLPC: A Deep Learning Approach to Augmented Kalman Filter-Based Single-Channel Speech Enhancement," in IEEE Access, vol. 9, pp. 64524-64538, 2021, doi: 10.1109/ACCESS.2021.3075209.](https://ieeexplore.ieee.org/document/9411829)
 
-[2] [2.	S. K. Roy, A. Nicolson, and K. K. Paliwal, "DeepLPC-MHANet: Multi-Head Self-Attention for Augmented Kalman Filter-based Speech Enhancement," in IEEE Access, vol. 9, pp. 70516-70530, 2021, doi: 10.1109/ACCESS.2021.3077281.] (https://ieeexplore.ieee.org/document/9422809)
+[2] [S. K. Roy, A. Nicolson, and K. K. Paliwal, "DeepLPC-MHANet: Multi-Head Self-Attention for Augmented Kalman Filter-based Speech Enhancement," in IEEE Access, vol. 9, pp. 70516-70530, 2021, doi: 10.1109/ACCESS.2021.3077281.](https://ieeexplore.ieee.org/document/9422809)
 
