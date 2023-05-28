@@ -1,6 +1,6 @@
 # DeepLPC-MHANet: Multi-head self-attention for augmented Kalman filter-based speech enhancement
 
-DeepLPC-MHANet is a Deep Learning framework proposed in [[2]](https://ieeexplore.ieee.org/document/9422809)
+DeepLPC-MHANet is a Deep Learning framework proposed in [[2]](https://ieeexplore.ieee.org/document/9422809) to optimize Augmented Kalman Filter for Speech Enhancement in Real-Life Condition. It is an extended work of previous DeepLPC 
 
 # Introduction:
 1. The lack of accurate LPC estimates degrades the performance of speech processing systems, such as speech coding, speech recognition, and speech enhancement using Kalman Filter. 
